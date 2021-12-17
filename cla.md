@@ -94,4 +94,4 @@ I fully expect project stewards, users, and distributors to rely on this CLA.  I
 
 ## Signature
 
-Signed: /{{{name}}}/
+Signed: /Joel Dueck/
